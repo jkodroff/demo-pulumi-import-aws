@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+pulumi-import-aws-account-scraper
+pulumi-import.json

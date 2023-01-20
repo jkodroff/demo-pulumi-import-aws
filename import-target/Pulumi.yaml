@@ -1,0 +1,3 @@
+name: demo-pulumi-import-target
+runtime: nodejs
+description: A minimal TypeScript Pulumi program
