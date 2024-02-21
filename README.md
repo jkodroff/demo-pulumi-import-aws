@@ -1,4 +1,4 @@
-# demo-pulumi-import
+# demo-pulumi-import-aws
 
 Demo for bulk import of AWS resources.
 
